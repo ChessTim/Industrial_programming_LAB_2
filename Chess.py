@@ -1,6 +1,6 @@
 # Скрипт для шахматной логики
 def hello():
-    print("Hello!!!")
+    print("Вариант первой ветки")
 
 if __name__ == "__main__":
     hello()
